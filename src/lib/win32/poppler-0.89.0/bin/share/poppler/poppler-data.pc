@@ -1,0 +1,8 @@
+poppler_datadir=C:\Users\TM23\Programs\poppler-0.89.0\build\poppler-data-0.4.9
+
+Name: poppler-data
+Description: Encoding files for use with poppler
+Version: 0.4.9
+
+Cflags: -DPOPPLER_DATADIR=C:\Users\TM23\Programs\poppler-0.89.0\build\poppler-data-0.4.9
+
