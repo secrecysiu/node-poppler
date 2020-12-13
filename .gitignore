@@ -120,3 +120,7 @@ dist
 test_docs/*
 !test_docs/*.pdf
 !test_docs/test.txt
+
+#ide
+.github
+.idea
